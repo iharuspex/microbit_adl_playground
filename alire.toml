@@ -1,0 +1,15 @@
+name = "microbit_adl_playground"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Artem Paraev"]
+maintainers = ["Artem Paraev <artemparaev.dev@gmail.com>"]
+maintainers-logins = ["iharuspex"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["microbit_adl_playground"]
+
+[[depends-on]]
+microbit_bsp = "~0.2.0"
