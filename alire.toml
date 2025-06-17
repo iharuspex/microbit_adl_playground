@@ -12,4 +12,4 @@ tags = []
 executables = ["microbit_adl_playground"]
 
 [[depends-on]]
-microbit_bsp = "~0.2.0"
+microbit_bsp = "~0.2.1"
